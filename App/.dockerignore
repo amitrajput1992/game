@@ -1,0 +1,8 @@
+Dockerfile
+Dockerfile_base
+node_modules/
+buildfiles/
+data/
+storage/
+.git/
+.idea/
